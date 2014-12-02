@@ -34,8 +34,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/loganreltexx/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/samsung/loganreltexx/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/samsung/loganreltexx/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
-    vendor/samsung/loganreltexx/proprietary/vendor/lib/egl/libGLESv2S3D_adreno.so:system/vendor/lib/egl/libGLESv2S3D_adreno.so \
     vendor/samsung/loganreltexx/proprietary/vendor/lib/egl/libGLESv2_adreno.so:system/vendor/lib/egl/libGLESv2_adreno.so \
+    vendor/samsung/loganreltexx/proprietary/vendor/lib/egl/libGLESv2S3D_adreno.so:system/vendor/lib/egl/libGLESv2S3D_adreno.so \
     vendor/samsung/loganreltexx/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
     vendor/samsung/loganreltexx/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/samsung/loganreltexx/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
@@ -64,7 +64,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/loganreltexx/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
     vendor/samsung/loganreltexx/proprietary/lib/libqdi.so:system/lib/libqdi.so \
     vendor/samsung/loganreltexx/proprietary/lib/libqdp.so:system/lib/libqdp.so \
-    vendor/samsung/loganreltexx/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/loganreltexx/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
     vendor/samsung/loganreltexx/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/samsung/loganreltexx/proprietary/lib/libril.so:system/lib/libril.so \
