@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/loganreltexx/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/samsung/loganreltexx/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/samsung/loganreltexx/proprietary/bin/thermald:system/bin/thermald \
+    vendor/samsung/loganreltexx/proprietary/bin/sswap:system/bin/sswap \
     vendor/samsung/loganreltexx/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/samsung/loganreltexx/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/samsung/loganreltexx/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
